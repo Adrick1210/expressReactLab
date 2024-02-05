@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Todo-List",
+      "live": "https://seal-project.onrender.com/todos",
+      "git": "https://github.com/Adrick1210/seal-project2.git",
+      "image": "https://i.imgur.com/CFmJ8Gh.png"
+    },
+    {
+      "name": "Card-Shop",
+      "live": "https://adrick1210.github.io/Card-Shop-Proj/",
+      "git": "https://github.com/Adrick1210/Card-Shop-Proj.git",
+      "image": "https://i.imgur.com/jsbp1QO.png"
+    }
+  ]
